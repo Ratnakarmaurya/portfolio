@@ -10,17 +10,17 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Lending Club Analysis
+# Data Science Portfolio
 
 Lending Club's P2P lending model connected borrowers and investors via advanced tech and algorithms. Regulatory challenges and disruption reshaped finance. Lessons for fintech innovation and inclusive lending practices emerged, transforming the industry landscape.
 
-## Header 2
+## Machine learning
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### Fraud Detection
 
 ```js
 // Javascript code with syntax highlighting.
